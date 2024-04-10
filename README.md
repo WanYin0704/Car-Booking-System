@@ -1,4 +1,6 @@
 # Car-Booking-System
+<img align = "right" src="https://github.com/WanYin0704/Car-Booking-System/assets/146581747/24274eb7-5b89-461c-b136-7424797d455d" width="400" length="200" height="225">
+
 **SpeedyCar** (Car Booking System) is intended to make booking a car through the system as simple as possible for
 users. There are altogether two categories of users-**administrators, and customers**, involved in
 this system. If **_customers_** want to book a car but do not have an account in the system, they need
